@@ -8,12 +8,12 @@
 
 ### Descripción:
 
-1.	Seleccionar y descargar un dataset relevante a un problema real de negocio.
-2.	Aplicar cada una de las fases de CRISP-DM (excepto Deployment) al caso elegido:
-  *	Comprensión del negocio
-  *	Comprensión de los datos
-  *	Preparación de los datos
-  *	Modelado
-  *	Evaluación
-3.	Elaborar una presentación clara y concisa que comunique todo el flujo de trabajo.
-4.	Conclusiones sobre hallazgos, limitaciones y siguientes pasos.
+1. Seleccionar y descargar un dataset relevante a un problema real de negocio.
+2. Aplicar cada una de las fases de CRISP-DM (excepto Deployment) al caso elegido:
+   1. Comprensión del negocio  
+   2. Comprensión de los datos  
+   3. Preparación de los datos  
+   4. Modelado  
+   5. Evaluación
+3. Elaborar una presentación clara y concisa que comunique todo el flujo de trabajo.
+4. Conclusiones sobre hallazgos, limitaciones y siguientes pasos.
